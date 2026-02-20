@@ -60,10 +60,14 @@ estilotexto: {
   marginHorizontal: 12,
 },
 
+textoPequeno: {
+marginTop: 12,
+},
+
 imagemPequena: {
   width: 180,
   height: 160,
-  marginTop: 35,
+  marginTop: 80,
 },
 
   socialRow: {
